@@ -33,7 +33,7 @@
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashid-ali-rabbani-73893b1b7)  
 - 📧 Email: rashid@example.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio: [Rashid-Portfolio](https://iamrashid01.github.io/New-portfolio/pages/homepage.html)  
 
 ---
 
